@@ -6,6 +6,7 @@ I am poor. This is a basic flutter app.
 ## Getting Started
 ### Challenge-1
 This project is a starting point for a Flutter application.
-
+App icon is added for Android.
+Since there are less IOS user icon is not added intentionally.
 
 
